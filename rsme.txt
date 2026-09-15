@@ -1,0 +1,80 @@
+HITESH KUMAR GAURAV
+Robotics and Automation Software Engineer
+hitesh16422@gmail.com | +91 73197 76396 | github.com/hitesh7424 | linkedin.com/in/hiteshkrgaurav hitesh7424.space
+
+PROFESSIONAL SUMMARY
+Final-year Robotics and Automation Engineering student experienced in developing robotic, embedded, and industrial automation systems using ROS2, Micro-ROS, Python, C++, PLC platforms, and IoT technologies. Built and integrated autonomous and remotely controlled systems including a Micro-ROS rover, autonomous pond-cleaning robot, and IoT-based conveyor automation system. Hands-on experience in autonomous navigation, motion planning, computer vision, PLC integration, embedded systems, and robotic system control.
+
+TECHNICAL SKILLS
+Programming: Python, C++
+Robotics & Automation: ROS2, Micro-ROS, MoveIt, Nav2, MAVROS, Gazebo, RoboDK, Rviz
+PLC & Industrial Automation: Siemens TIA Portal, Factory I/O (TIA Portal Integration), Delta PLC (ISPSoft, DOPSoft), Bosch Rexroth PLC (IndraWorks Engineering)
+Embedded Systems: Arduino, ESP32, ESP8266, Raspberry Pi, Pixhawk
+IoT & Networking: Flask, WebSocket, Ngrok, Home Assistant, Google Home
+Design & Simulation: SolidWorks, Onshape, Altair Inspire, Fluent (CFD)
+Operating Systems: Linux, Windows, macOS
+Development Tools: Git, GitHub
+
+EDUCATION
+B.E., Robotics and Automation
+Karpaga Vinayaga College of Engineering and Technology	
+CGPA: 8.1/10	
+2023–27
+Higher Secondary (Class XII), CBSE
+Nikhil Shyama DAV Public School, Sitamarhi, Bihar, India	
+75.8%	
+2022
+Secondary School (Class X), CBSE 
+Nikhil Shyama DAV Public School, Sitamarhi, Bihar, India	
+87.6%	
+2020
+
+INTERNSHIP
+Motherson Automotive Technologies & Engineering FSP | Maraimalai Nagar, Tamil Nadu | June 8–30, 2026
+•	Gained exposure to automotive production workflows across multiple assembly lines.
+•	Gained exposure to industrial PLC systems and ARM robots.
+
+SELECTED PROJECTS
+
+IoT-Enabled Autonomous Pond Cleaning Bot | Completed
+•	Developed an autonomous floating robot that collects surface debris using a conveyor mechanism and avoids obstacles.
+•	Built a Flask web server with APIs for camera feed, sensor data, and status; enabled remote monitoring, GPS tracking, and manual override through Ngrok.
+•	Implemented computer vision for waste detection, obstacle avoidance, sensor integration, and electrical connection.
+•	Hardware: Raspberry Pi, ESP32, Pi Camera Module 3, GPS, ultrasonic sensors, gear motors, motor drivers, relays.
+
+
+
+IoT-Based Automated Bottle Filling System | Completed | Team Project
+•	Developed embedded software and electronics for a conveyor-based bottle filling system with four-stage laser positioning and flow-sensor-metered dispensing.
+•	Implemented ESP32/ESP8266 firmware, WebSocket communication, sensor integration, dashboard logic, OLED status displays, and remote control.
+•	Hardware: ESP32, ESP8266, gear motor, motor driver, relay board, water pump, flow sensor, rotary encoder, NeoPixel LED ring, laser sensors, OLED displays.
+
+Micro-ROS Controlled Rover with Global Web Access | Completed; ongoing upgrade
+•	Built a WiFi-controlled robot car using ROS2 Jazzy and Micro-ROS, with a web dashboard exposed for operation beyond the local network.
+•	Integrated ESP32 DevKit, L298N motor driver, rosbridge_server, and a 4-wheel chassis; ongoing upgrade adds LiDAR, IMU, and autonomous navigation.
+•	Repositories: https://github.com/hitesh7424/esp32-microros-car-controller | https://github.com/hitesh7424/ros-car-controller-app
+
+Fixed-Wing Drone Design & CFD Simulation — SAE DDC | Completed
+•	Designed a 3D fixed-wing drone CAD model in SolidWorks and used Fluent CFD analysis on the airfoil profile to evaluate lift characteristics.
+
+Autonomous QR Detection Drone — SAE ADDC | In Progress
+•	Developing a mission-based autonomous multirotor drone to locate a QR code in a defined area and return to the landing position within specified time and accuracy constraints; currently in simulation and development.
+
+ACHIEVEMENTS
+•	1st Prize — TechExpo Asimov '25, Easwari Engineering College.
+•	1st Place — Hackathon on Product Conceptualization and Prototyping, Penta CAD Technology under the Naan Mudhalvan Program (AY 2025–26, 6th Sem).
+•	1st Prize — Python Programming Competition, SAEINDIA Student Convention (Software Programming), Manakula Vinayagar Institute of Technology, Puducherry (March 2026).
+•	Participant — 11th Edition SAEINDIA Southern Section Drone Development Challenge 2025–26, Team KVCET_CHOLAS, KCG College of Technology, Chennai (February 2026).
+•	Paper Presentation — INOWIX 2K24, National Level Symposium, Karpaga Vinayaga College of Engineering and Technology (March 2024).
+
+CERTIFICATIONS & WORKSHOPS
+•	Udemy — Robotics and ROS2: Learn by Doing! Manipulators.
+•	GUVI HCL — Python Programming Course in Hindi: Beginner to Advanced.
+•	Workshop — Mastering MERN Stack (MongoDB, Express, React, Node.js), Dept. of CSE, Karpaga Vinayaga College of Engineering and Technology.
+•	Workshop — ROS2 at JARVIS '26, Chennai Institute of Technology.
+•	Workshop — ROS2 Fundamentals, PSG College of Technology, Coimbatore.
+
+LANGUAGES
+•	English (fluent)
+•	Hindi (fluent)
+•	Tamil (basic)
